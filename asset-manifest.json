@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.62635d23.chunk.css",
-  "main.js": "/static/js/main.a1737292.chunk.js",
-  "main.js.map": "/static/js/main.a1737292.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.1d141301.chunk.js": "/static/js/2.1d141301.chunk.js",
-  "static/js/2.1d141301.chunk.js.map": "/static/js/2.1d141301.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.efae0fcf003bfe3ff09b2162de522968.js": "/precache-manifest.efae0fcf003bfe3ff09b2162de522968.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.62635d23.chunk.css.map": "/static/css/main.62635d23.chunk.css.map"
+  "main.css": "/Mastermind-Game/static/css/main.62635d23.chunk.css",
+  "main.js": "/Mastermind-Game/static/js/main.6ad30d57.chunk.js",
+  "main.js.map": "/Mastermind-Game/static/js/main.6ad30d57.chunk.js.map",
+  "runtime~main.js": "/Mastermind-Game/static/js/runtime~main.5d72fad5.js",
+  "runtime~main.js.map": "/Mastermind-Game/static/js/runtime~main.5d72fad5.js.map",
+  "static/js/2.1d141301.chunk.js": "/Mastermind-Game/static/js/2.1d141301.chunk.js",
+  "static/js/2.1d141301.chunk.js.map": "/Mastermind-Game/static/js/2.1d141301.chunk.js.map",
+  "index.html": "/Mastermind-Game/index.html",
+  "precache-manifest.0a88aeb32686b60067608da22620d2ec.js": "/Mastermind-Game/precache-manifest.0a88aeb32686b60067608da22620d2ec.js",
+  "service-worker.js": "/Mastermind-Game/service-worker.js",
+  "static/css/main.62635d23.chunk.css.map": "/Mastermind-Game/static/css/main.62635d23.chunk.css.map"
 }
